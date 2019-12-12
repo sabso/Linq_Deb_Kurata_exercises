@@ -1,0 +1,6 @@
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\bin\Debug\ACM.Library.dll
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\bin\Debug\ACM.Library.pdb
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\obj\Debug\ACM.Library.csproj.CoreCompileInputs.cache
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\obj\Debug\ACM.Library.dll
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\obj\Debug\ACM.Library.pdb
+C:\Users\SSOW\source\repos\ConsoleApp1\ACM.Library\obj\Debug\ACM.Library.csprojAssemblyReference.cache
